@@ -1,0 +1,36 @@
+body {
+    padding: 40px !important;  
+    background-color: rgb(236, 242, 245) !important;  
+}
+#for {
+    background-color: rgb(70, 195, 95);
+    padding-top: 20px;
+}
+
+h1 {
+    color: white !important; 
+    font-size: 47px !important; 
+    line-height: 50px !important;  
+}
+
+h4   {
+    font-size: 20px !important;
+    color: white !important;
+    line-height: 14px  !important;
+}
+
+label {
+    font-size: 12px !important;
+    text-shadow: 500cm;
+}
+
+button {
+    background-color: rgb(134, 215, 151) !important;
+    
+}
+
+#pad {
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: rgb(251, 252, 253);
+}
